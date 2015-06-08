@@ -1,0 +1,5 @@
+D:\Conversor\Conversor\bin\Debug\Conversor.dll
+D:\Conversor\Conversor\bin\Debug\Conversor.pdb
+D:\Conversor\Conversor\obj\Debug\Conversor.dll
+D:\Conversor\Conversor\obj\Debug\Conversor.pdb
+D:\Conversor\Conversor\obj\Debug\Conversor.csprojResolveAssemblyReference.cache

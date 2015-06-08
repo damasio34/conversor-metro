@@ -1,0 +1,7 @@
+D:\Conversor\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+D:\Conversor\Testes\bin\Debug\Testes.dll
+D:\Conversor\Testes\bin\Debug\Testes.pdb
+D:\Conversor\Testes\bin\Debug\Conversor.pdb
+D:\Conversor\Testes\obj\Debug\Testes.dll
+D:\Conversor\Testes\obj\Debug\Testes.pdb
+D:\Conversor\Testes\bin\Debug\Conversor.dll
